@@ -10,6 +10,11 @@ Program służy do oznaczania bazy treningowej wykorzystywanej w programie do de
 * Kompilator: Qt Creator 3.6.0
 * Wykorzystywane biblioteki: OpenCV v3.1
 
+### Informacje wstępne###
+
+Aby możliwe było wyświetlanie w programie obrazka "Przykład zaznaczenia" należy dodać plik "sygnalizacja.png" do projektu. Można to zrobić w następujący sposób. W drzewie projektu w programie Qt Creator kliknąć prawym przyciskiem na projekt i wybrać opcję "Dodaj nowy..", następnie przejść do zakładki "Qt" i wybrać "Qt Resource file", nadać mu nazwę i zatwierdzić. W nowo otwartej zakładce kliknąć "Dodaj", następnie "Dodaj pliki" i dodać plik "sygnalizacja.png.
+
+
 ### Instrukcja użytkowania ###
 
 Po uruchomieniu programu należy kliknąć przycisk "Dodaj nowy", a następnie wybrać materiał wideo wykorzystywany do zebrania danych treningowych. Po wykonaniu tej operacji w zakładce "Plik video" doda się pozycja z nazwą ścieżki wybranego pliku. Należy ją zaznaczyć, a następnie kliknąć przycisk "Otwórz".
