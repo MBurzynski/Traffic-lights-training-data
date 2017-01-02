@@ -14,6 +14,8 @@ Program służy do oznaczania bazy treningowej wykorzystywanej w programie do de
 
 Aby możliwe było wyświetlanie w programie obrazka "Przykład zaznaczenia" należy dodać plik "sygnalizacja.png" do projektu. Można to zrobić w następujący sposób. W drzewie projektu w programie Qt Creator kliknąć prawym przyciskiem na projekt i wybrać opcję "Dodaj nowy..", następnie przejść do zakładki "Qt" i wybrać "Qt Resource file", nadać mu nazwę i zatwierdzić. W nowo otwartej zakładce kliknąć "Dodaj", następnie "Dodaj pliki" i dodać plik "sygnalizacja.png.
 
+Aby możliwe było wyświetlanie na filmie wcześniej sporządzonych zaznaczeń należy się upewnić, że plik YAML z zaznaczeniami znajduje się w folderze projektu, a jego nazwa jest taka sama jak nazwa analizowanego pliku wideo.
+
 
 ### Instrukcja użytkowania ###
 
